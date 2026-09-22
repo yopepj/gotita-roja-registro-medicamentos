@@ -450,6 +450,6 @@ código, la instalación o el mantenimiento:
 | # | Nombre | Correo |
 |:-:|---|---|
 | 1 | Julián A. Cruz Justiniano | hooasoiio@gmail.com |
-| 2 | Nombre y apellido | correo@ejemplo.com |
+| 2 | Leonardo Zeballos Valda | leonardo587933@gmail.com |
 | 3 | Yimy Serrano Palacios | yimysp@gmail.com |
 | 4 | Josue Mujica Cachicatari | josuelegion1@gmail.com |
